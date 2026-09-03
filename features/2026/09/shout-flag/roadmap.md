@@ -1,5 +1,5 @@
 ```yaml
-status: in-review
+status: complete
 branch: feature/shout-flag
 last-updated: 2026-09-03
 next-step: ""
